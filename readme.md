@@ -2,4 +2,6 @@
 
 <p> Segue repositorio com a resolucao do desafio proposto na FullCycle.</p>
 
-<p>Por problemas com rede/conexao nao consegui realizar o upload da imagem para o dockerHub 🥲</p>
+<p>IMAGEM NO DOCKERHUB:</p>
+
+https://hub.docker.com/repository/docker/luanhsd/golang-scratch/general
